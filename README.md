@@ -5,11 +5,11 @@ A fully responsive and animated personal portfolio website designed to showcase 
 
 ## 📁 Project Structure
 
-├── index.html # Main HTML file
-├── style.css # CSS for styling and layout
-├── script.js # JavaScript for interactivity and animations
-├── server.js # Node.js backend server for form submission
-├── myproject # Contains images
+├── index.html # Main HTML file <br>
+├── style.css # CSS for styling and layout <br>
+├── script.js # JavaScript for interactivity and animations <br>
+├── server.js # Node.js backend server for form submission <br>
+├── myproject # Contains images 
 
 ---
 
