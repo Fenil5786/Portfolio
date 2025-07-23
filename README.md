@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website - Fenil Makvana
+# 🌐 Personal Portfolio Website 
 
 A fully responsive and animated personal portfolio website designed to showcase my skills, projects, and contact information. Built using modern web technologies including HTML, CSS, JavaScript, and Node.js with MongoDB for backend integration.
 
